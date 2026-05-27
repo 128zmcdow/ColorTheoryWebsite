@@ -1,0 +1,48 @@
+.red {
+    height:50px;
+    background-color: red;
+}
+.blue {
+    height:50px;
+    background-color: blue;
+}
+.yellow {
+    height:50px;
+    background-color: yellow;
+}
+.green {
+    height:50px;
+    background-color: green;
+}
+.orange {
+    height:50px;
+    background-color: orange;
+}
+.purple {
+    height:50px;
+    background-color: purple;
+}
+.redorange {
+    height:50px;
+    background-color: orangered;
+}
+.yelloworange {
+    height:50px;
+    background-color: #ffbb00;
+}
+.yellowgreen {
+    height:50px;
+    background-color: yellowgreen;
+}
+.bluegreen {
+    height:50px;
+    background-color: #00ff95;
+}
+.bluepurple {
+    height:50px;
+    background-color: blueviolet;
+}
+.redpurple {
+    height:50px;
+    background-color: #ff00e1;
+}
