@@ -46,3 +46,144 @@
     height:50px;
     background-color: #ff00e1;
 }
+.pastel {
+    height:50px;
+    background-color: #ffc1cf;
+}
+.tea {
+    height: 50px;
+    background-color: #E8FFB7;
+}
+.mauve {
+    height: 50px;
+    background-color: #E2A0FF;
+}
+.cyan {
+    height: 50px;
+    background-color: #C4F5FC;
+}
+.aqua {
+    height: 50px;
+    background-color: #B7FFD8;
+}
+.grey {
+    height: 50px;
+    background-color: #32292F;
+}
+.charcoal {
+    height: 50px;
+    background-color: #575366;
+}
+.glaucous {
+    height: 50px;
+    background-color: #6E7DAB;
+}
+.indigo {
+    height: 50px;
+    background-color: #5762D5;
+}
+.water {
+    height: 50px;
+    background-color: #D1E3DD;
+}
+.strawberry {
+    height: 50px;
+    background-color: #F94144;
+}
+.pumpkin {
+    height: 50px;
+    background-color: #F3722C;
+}
+.carrot {
+    height: 50px;
+    background-color: #F8961E;
+}
+.atomic {
+    height: 50px;
+    background-color: #f9844a;
+}
+.sun {
+    height: 50px;
+    background-color: #f9c74f;
+}
+.willow {
+    height: 50px;
+    background-color: #90be6d;
+}
+.seaweed {
+    height: 50px;
+    background-color: #43aa8b;
+}
+.darkcyan {
+    height: 50px;
+    background-color: #4d908e;
+}
+.slate {
+    height: 50px;
+    background-color: #577590;
+}
+.cerc {
+    height: 50px;
+    background-color: #277da1;
+}
+h1 {
+  font-family: "Titan One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h2 {
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h3 {
+  font-family: "DynaPuff", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.night {
+    height: 50px;
+    background-color: #590D22;
+}
+.dark {
+    height: 50px;
+    background-color: #800F2F;
+}
+.cherry {
+    height: 50px;
+    background-color: #a4133c;
+}
+.rosewood {
+    height: 50px;
+    background-color: #c9184a;
+}
+.gum {
+    height: 50px;
+    background-color: #ff4d6d;
+}
+.gum2 {
+    height: 50px;
+    background-color: #ff758f;
+}
+.cotton {
+    height: 50px;
+    background-color: #ff8fa3;
+}
+.blossom {
+    height: 50px;
+    background-color: #ffb3c1;
+}
+.petal {
+    height: 50px;
+    background-color: #ffccd5;
+}
+.blush {
+    height: 50px;
+    background-color: #fff0f3;
+}
+body {
+    background-color: #EFD9CE;
+}
